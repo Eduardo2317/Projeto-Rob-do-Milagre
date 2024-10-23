@@ -1,0 +1,32 @@
+@media(max-width : 750px){
+    .cabecalho{
+        flex-direction: column;
+        align-items: center;
+        padding: 40px 0;
+    }
+
+    .cabecalho-imagem{
+        max-width: 50px;
+        
+    }
+
+    .cabecalho-menu{
+        padding: 30px 10px 10px;
+        margin-top: -10px;
+    }
+
+    .cabecalho-menu-item{
+        font-size: 12px;
+    }
+
+   .conteudo{
+    padding: 10px;
+   }
+
+   .conteudo-principal-escrito-titulo{
+    font-size: 25px;
+   }
+
+
+
+}
